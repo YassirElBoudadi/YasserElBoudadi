@@ -1,4 +1,9 @@
- ### 👋 Hi, I’m Yasser El Boudadi
+<h1 align="center">Hi 👋, I'm Yassir El Boudadi</h1>
+<h3 align="center">💻 Designer • Web Developer • Virtual Assistant 💻</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&lines=Always+Building...+Always+Leveling+Up;Blending+Creativity+with+Technology;Designer+%7C+Web+Dev+%7C+Virtual+Assistant" alt="Typing animation" />
+</p>
 
 # 💫 About Me:
 🎨 Designer • 💻 Web Developer • 📎 Virtual Assistant<br><br>I’m passionate about building sleek designs, modern web experiences, and efficient workflows. At YEBXLab, I experiment, create, and innovate—merging design and code to craft bold digital solutions.
@@ -34,11 +39,26 @@
 [![](https://visitcount.itsvg.in/api?id=YassirElBoudadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YassirElBoudadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YassirElBoudadi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YassirElBoudadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=YassirElBoudadi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YassirElBoudadi&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassirElBoudadi&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassirElBoudadi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+  <br>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YassirElBoudadi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+<br>
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=YassirElBoudadi&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
@@ -52,5 +72,7 @@
 
 
 
+---
 
+<h2 align="center">✨ _“Always building. Always leveling up.”_ ✨</h2>
 
